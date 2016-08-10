@@ -19,14 +19,16 @@ commit du fichier chapitre_1.doc via la commande git commit -m
 
 Modification du fichier introduction
 
-Ajout à l’index et commit via git -am
+Ajout à l’index et commit 
 
 Modification du fichier introduction
 
-Ajout à l’index et commit via git -am
+Ajout à l’index et commit 
 
 Création du fichier README.txt
 
 Ajout à l’index de git
 
 Commit du fichier README.txt
+
+Envoi du repository sur github via la commande git push
